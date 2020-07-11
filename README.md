@@ -2,7 +2,7 @@
 
 ## 简介
 
-数据库观察者项目，致力于提供一套开源地全面解决混合云数据库日常监控告警的功能。
+<img src="pic/observer32.png" style="zoom:25%;" />数据库观察者项目，致力于提供一套开源地全面解决混合云数据库日常监控告警的功能。
 
 * 多种采集器：提供了30+的数据库相关的采集器，2800+的重要指标
 * 多种云平台：提供了多种云平台数据库产品，包含 关系型、文档形、KV型等100+的数据库产品。例如 `aliyun`、`Amazon`、`Tencent`、`Azure`等云数据库产品。
@@ -54,4 +54,4 @@ TICK是Telegraf、InfluxDB、Chronograf和Kapacitor四个软件的首字母缩�
 
 # 关于我们
 
-SuperCloudDBA 我们一直致力于为小伙伴们提供更多的优质技术文档和数据库自动化运维管理工具！
+<img src="pic/solar.png" style="zoom:25%;" />SuperCloudDBA 我们一直致力于为小伙伴们提供更多的优质技术文档和数据库自动化运维管理工具！
